@@ -22,7 +22,7 @@ def third_challenge
       :heroine => { name: {age}, age: {} , status: {}
         #your key/value pairs here
         },
-      :heroine_friends => [{name: {}, age: {}, attitude: {}}, {name: {}, age: {} attitude: {}}}]
+      :heroine_friends => [{name: {}, age: {} , attitude: {} }]
    }
   }
 
