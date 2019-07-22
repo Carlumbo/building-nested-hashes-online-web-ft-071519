@@ -20,9 +20,8 @@ def third_challenge
         #your key/value pairs here
         },
         
-      :heroine => { name: "Juliet", age: "15" , status: "alive" },
-        #your key/value pairs here
-      :heroine_friends => []
+       :heroine => {name: "Juliet", age: "15", status: "alive"},
+      :heroine_friends => [
    }
   }
 
